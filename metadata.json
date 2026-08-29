@@ -1,0 +1,6 @@
+{
+  "name": "APK to AAB Converter",
+  "description": "Convert APKs to Android App Bundles (AAB) for Google Play Console publishing with pre-flight compliance inspection, key signing, and release tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
